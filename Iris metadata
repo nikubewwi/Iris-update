@@ -1,0 +1,53 @@
+{
+  "name": "Agent C-09: Iris",
+  "symbol": "CHRM",
+  "description": "Agent C-09 is an undercover agent and a part of the X-Posse 21 Assassins. Her skills include charming targets, assassination, and excellent disguise.\n\nIris holds a rather fancy weapon, a cane, that can transform into different objects, but her favorite is to wield a rope and a sword with it. She can toy with any target's feelings so be careful not to get caught in her charms.",
+  "attributes": [
+    {
+      "trait_type": "Class/Job Type",
+      "value": "Undercover Assassin"
+    },
+    {
+      "trait_type": "Department",
+      "value": "X-Posse 21"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Cane"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    }
+  ],
+  "seller_fee_basis_points": 1000,
+  "image": "https://arweave.net/qcTn7qXSO4XwDubDT1DzSHeQJE3U_pQVr0t4spjpa3E?ext=png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://arweave.net/qcTn7qXSO4XwDubDT1DzSHeQJE3U_pQVr0t4spjpa3E?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3874t9DP9Efy1wSXgygn4gbAfxZtzJ82wBqP4m2gvAuD",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  },
+  "status": [
+    {
+      "name": "Primary Market",
+      "value": 0,
+      "type": "primarySaleHappened"
+    },
+    {
+      "name": "Mutable",
+      "value": 1,
+      "type": "primarySaleHappened"
+    }
+  ]
+}
